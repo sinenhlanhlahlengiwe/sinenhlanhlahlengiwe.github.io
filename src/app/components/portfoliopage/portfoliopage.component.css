@@ -1,0 +1,36 @@
+.card {
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+}
+h1 {
+  font-family: cursive;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-family: cursive;
+  text-align: center;
+  color: pink;
+}
+
+p {
+  font-family: cursive;
+  text-align: center;
+  color: whitesmoke;
+}
+
+a{
+    color: white;
+    background-color: rgb(202, 61, 183);
+    padding: 0px 10px 0px 10px;
+}
+
+a:hover{
+    color: rgb(202, 61, 183);
+    background-color: white;
+}

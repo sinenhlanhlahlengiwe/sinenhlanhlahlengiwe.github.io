@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-image:url("assets/background.png"); 
+  
+  }
+  body::before {
+    content: "";
+    position: absolute;
+
+    
+
+    filter: blur(10px); 
+    z-index: -1; 
+  }
+p {
+  font-family: cursive;
+}
+  
+  
