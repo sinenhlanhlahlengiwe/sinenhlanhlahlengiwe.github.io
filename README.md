@@ -4,25 +4,36 @@ DEPLOYMENT (Vercel) URL : https://sinenhlanhlahlengiwe.vercel.app/home
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
 
-## Development server
+## Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Welcome to my portfolio website, showcasing my skills and experiences as a student. This website is designed to provide an overview of my work, interests, and contact information.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Features
 
-## Build
+- Home Page: Introduction to my portfolio and latest updates
+- About Page: Detailed information about my background, skills, and experiences
+-Portfolio Page: Detailing a few projects I have done.
+- Contact Me Page: Get in touch with me through email or social media
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Technologies Used
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Built with Angular framework
 
-## Running end-to-end tests
+## Screenshots
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Home Page
+
+## About Page
+
+## Portfolio Page
+
+## Contact Page
+
+
+
 
 ## Further help
 
