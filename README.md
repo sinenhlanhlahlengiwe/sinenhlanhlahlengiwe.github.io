@@ -25,12 +25,25 @@ Built with Angular framework
 
 
 ## Home Page
+![Home Page](homepage.jpeg)
 
 ## About Page
+![About Page](aboutpage.jpeg)
 
 ## Portfolio Page
+![Portfolio Page](portfoliopage.jpeg)
 
 ## Contact Page
+![Contact Me Page](contactpage.jpeg)
+
+## Getting started
+
+To run this application locally:
+
+1. Clone the repository using `git clone (link unavailable)
+2. Install dependencies using npm install
+3. Run the application using ng serve
+4. Open your browser at http://localhost:4200
 
 
 
